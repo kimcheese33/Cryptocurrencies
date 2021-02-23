@@ -8,7 +8,11 @@ The purpose of this was to utilize unsupervised Machine Learning algorithms to a
 
 ### 3D Scatter Plot Showing Clusters
 
+<img src="https://github.com/kimcheese33/Cryptocurrencies/blob/main/images/3d_scatter.png" />
+
 
 ### 2D Scatter Plot Showing Total Coins Mined by Total Coin Supply Categorized by Class
+
+<img src="https://github.com/kimcheese33/Cryptocurrencies/blob/main/images/scatter.png" />
 
 
